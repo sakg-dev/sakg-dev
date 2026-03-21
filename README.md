@@ -3,20 +3,19 @@
 ### About Me:
  - I am 15 year old Full Stack Web developer.
  - I make stuff.
- - [More about me](https://www.webwithsaksham.com)
+ - [More about me](https://www.sakg.dev)
 
 ### Currently working on:
- -  [uConnect](https://github.com/sakg-dev/uConnect) ~Visisphere(delayed)~
+ -  [chatAI](https://github.com/sakg-dev/chatAI) ~uConnect(lil delayed :p)~
 
 ### Learning:
- - Game dev
+ - Typescript
 
 ### Github stats::
 ![](https://github-readme-stats.vercel.app/api?username=sakg-dev&show_icons=true&theme=transparent)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=sakg-dev&layout=compact&theme=transparent)
+
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=21409&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=bear&animation=default&layout=default&font=PixelifySans&quoteType=random&bgColor=black&borderColor=purple)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakg-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
