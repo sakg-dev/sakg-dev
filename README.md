@@ -4,6 +4,7 @@
  - I am 15 year old Full Stack Web developer.
  - I make stuff.
  - [More about me](https://www.sakg.dev)
+ - I mostly follow NO AI Policy for projects I can learn from but for projects that I don't need to know like this:[..], i do vibe coding 
 
 ### Currently working on:
  -  [chatAI](https://github.com/sakg-dev/chatAI) ~uConnect(lil delayed :p)~
