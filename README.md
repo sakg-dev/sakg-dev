@@ -7,7 +7,7 @@
  - I mostly follow NO AI Policy for projects I can learn from but for projects that I don't need to know like this:[..], i do vibe coding 
 
 ### Currently working on:
- -  [chatAI](https://github.com/sakg-dev/chatAI) ~uConnect(lil delayed :p)~
+ -  [sakg.dev](https://github.com/sakg-dev/sakg.dev) ~ chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
  - Typescript
