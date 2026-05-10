@@ -10,7 +10,7 @@
  -  [sakg.dev](https://github.com/sakg-dev/sakg.dev) ~ chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
- - Typescript
+ - opencv-python, linear algebra and computer fundamentals for future project
 
 ### Github stats::
 ![](https://github-readme-stats.vercel.app/api?username=sakg-dev&show_icons=true&theme=transparent)<br/><br/>
