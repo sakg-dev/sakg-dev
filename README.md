@@ -7,7 +7,7 @@
  - I mostly follow NO AI Policy for projects I can learn from but for projects that I don't need to know like this:[..], i do vibe coding 
 
 ### Currently working on:
- -  [hand-tracked-joystick](https://github.com/sakg-dev/hand-tracked-joystick) ~sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  [CourseCraft](https://github.com/sakg-dev/CourseCraft) ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
  - opencv-python, linear algebra and computer fundamentals for future project
