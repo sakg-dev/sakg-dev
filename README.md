@@ -4,10 +4,11 @@
  - I am 15 year old Full Stack Web developer.
  - I make stuff.
  - [More about me](https://www.sakg.dev)
- - I mostly follow NO AI Policy for projects I can learn from but for projects that I don't need to know like this:[..], i do vibe coding 
+ - I don't (can't?) code without music
+ - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  [CourseCraft](https://github.com/sakg-dev/CourseCraft) ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  *Dora* ~CourseCraft, hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
  - opencv-python, linear algebra and computer fundamentals for future project
