@@ -8,7 +8,7 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  *Dora* ~CourseCraft, hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  *CourseCraft* ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
  - opencv-python, linear algebra and computer fundamentals for future project
