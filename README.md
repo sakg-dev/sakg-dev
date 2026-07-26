@@ -8,10 +8,10 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  *CourseCraft* ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  NO IDEA ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
- - opencv-python, linear algebra and computer fundamentals for future project
+ - rust
 
 ### Github stats::
 ![](https://github-readme-stats.vercel.app/api?username=sakg-dev&show_icons=true&theme=transparent)<br/><br/>
