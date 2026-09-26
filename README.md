@@ -8,7 +8,7 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  [my-keeb](https://github.com/sakg-dev/my-keeb) ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  [my-keeb](https://github.com/sakg-dev/my-keeb), [cheesefetch](https://github.com/sakg-dev/cheesefetch) and [hightlands](https://github.com/sakg-dev/highlands) ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
 
 ### Learning:
  - rust, nixos and hardware
