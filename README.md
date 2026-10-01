@@ -8,7 +8,9 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  [my-keeb](https://github.com/sakg-dev/my-keeb), [cheesefetch](https://github.com/sakg-dev/cheesefetch) and [hightlands](https://github.com/sakg-dev/highlands) ~hand-tracked-joystick, sakg.dev, chatUI and uConnect (lil delayed :p)~
+ -  [my-keeb](https://github.com/sakg-dev/my-keeb): Need to find bom and other stuff
+ -  [shell](https://github.com/sakg-dev/shell): basic shell done but doing more features
+ -  [hightlands](https://github.com/sakg-dev/highlands): Whole site is need to be done
 
 ### Learning:
  - rust, nixos and hardware
