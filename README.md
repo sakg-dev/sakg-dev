@@ -13,13 +13,12 @@
  -  [hightlands](https://github.com/sakg-dev/highlands): Whole site is need to be done
 
 ### Learning:
- - rust, nixos and hardware
+ - assembly and rust
 
-### Github stats::
-![](https://github-readme-stats.vercel.app/api?username=sakg-dev&show_icons=true&theme=transparent)<br/><br/>
+### Github stats:
+![](https://ghstats.dev/api/card?username=sakg-dev)
 
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=21409&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)
+### Techstack i use:
 
 ### ✍️ Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=bear&animation=default&layout=default&font=PixelifySans&quoteType=random&bgColor=black&borderColor=purple)
