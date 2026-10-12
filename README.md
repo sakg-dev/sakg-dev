@@ -19,6 +19,7 @@
 ![](https://ghstats.dev/api/card?username=sakg-dev)
 
 ### Techstack i use:
+Assembly, Nix, Rust, Javascript, Typescript, Html, css, react, nextjs, python
 
 ### ✍️ Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=bear&animation=default&layout=default&font=PixelifySans&quoteType=random&bgColor=black&borderColor=purple)
