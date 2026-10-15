@@ -1,8 +1,7 @@
 ## <img height="25" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" alt="waiving hand"> Hi there I am Saksham 
 
 ### About Me:
- - I am 15 year old Full Stack Web developer.
- - I make stuff.
+ - I make random stuff.
  - [More about me](https://www.sakg.dev)
  - I don't (can't?) code without music
  - I follow NO AI Policy for projects!
