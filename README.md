@@ -7,7 +7,7 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  [my-keeb](https://github.com/sakg-dev/my-keeb): Need to find bom and other stuff
+ -  [Keebiter](https://github.com/sakg-dev/keebiter): Need to find bom and other stuff
  -  [shell](https://github.com/sakg-dev/shell): basic shell done but doing more features
  -  [hightlands](https://github.com/sakg-dev/highlands): Whole site is need to be done
 
