@@ -7,9 +7,11 @@
  - I follow NO AI Policy for projects!
 
 ### Currently working on:
- -  [Keebiter](https://github.com/sakg-dev/keebiter): Need to find bom and other stuff
+ -  [Keebiter](https://github.com/sakg-dev/keebiter): Need to order parts and assemble
+ -  [os](https://github.com/sakg-dev/os): Need to make bootloater -- learning asm
  -  [shell](https://github.com/sakg-dev/shell): basic shell done but doing more features
- -  [hightlands](https://github.com/sakg-dev/highlands): Whole site is need to be done
+
+**NOTE:** MY Exams ongoing hence not able to focus atp ;-;
 
 ### Learning:
  - assembly and rust
