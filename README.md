@@ -1,20 +1,15 @@
-## <img height="25" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" alt="waiving hand"> Hi there I am Saksham 
+## <img height="25" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" alt="waiving hand"> Hi there I am Sak G 
 
 ### About Me:
  - I make random stuff.
  - [More about me](https://www.sakg.dev)
- - I don't (can't?) code without music
- - I follow NO AI Policy for projects!
+ - I follow ***NO AI** Policy for all of my projects!
 
 ### Currently working on:
- -  [Keebiter](https://github.com/sakg-dev/keebiter): Need to order parts and assemble
- -  [os](https://github.com/sakg-dev/os): Need to make bootloater -- learning asm
- -  [shell](https://github.com/sakg-dev/shell): basic shell done but doing more features
-
-**NOTE:** MY Exams ongoing hence not able to focus atp ;-;
+- [headless_train](https://github.com/sakg-dev/headless_train): Got tiles, need to render it smh
 
 ### Learning:
- - assembly and rust
+- About vector tiles and other geo thingies
 
 ### Github stats:
 ![](https://ghstats.dev/api/card?username=sakg-dev)
